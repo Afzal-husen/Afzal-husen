@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Afzal_Diwan
-- 👀 I’m interested in learnng new technology
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in learnng new technologies
+- 🌱 I’m currently building fullstack web apps
+- 🧑‍💻 My tech stack is React with NextJs, Postgres, mysql & MongoDB, nodeJS with ExpressJS 
 - 💞️ I’m looking to collaborate on any web related project
 - 📫 How to reach me : afzalhusen3@gmail.com
 
