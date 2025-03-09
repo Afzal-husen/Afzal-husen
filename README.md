@@ -17,7 +17,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable and effici
 - 🤝 Open to collaborations on web-related projects
 
 ### 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/afzaldiwan/](https://www.linkedin.com/in/afzal-diwan-7202b8239/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/afzal-diwan-7202b8239/])  
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:afzalhusen3@gmail.com)
 
 ---
