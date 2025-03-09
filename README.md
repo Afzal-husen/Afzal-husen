@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @Afzal_Diwan
-- 👀 I’m interested in learnng new technologies
-- 🌱 I’m currently building fullstack web apps
-- 🧑‍💻 My tech stack is Typescript, React with NextJs, Postgres, mysql & MongoDB, nodeJS with ExpressJS 
-- 💞️ I’m looking to collaborate on any web related project
-- 📫 How to reach me : afzalhusen3@gmail.com
+## 👋 Hi, I'm Afzal Diwan!
 
-<!---
-Afzal-husen/Afzal-husen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+I'm a passionate **Full-Stack Developer** who loves building scalable and efficient web applications. With experience in **TypeScript, React, Next.js, Node.js, and various databases**, I enjoy crafting seamless digital experiences. Always eager to learn and explore new technologies!
+
+### 🛠 Tech Stack
+
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools & Others:** Prisma, Supabase, Cloudinary, Git, Docker
+
+### 👀 Interests
+- 🔍 Exploring new web technologies & frameworks
+- 🏗 Building real-world full-stack applications
+- 📊 Learning AI/ML and data-driven solutions
+- 🤝 Open to collaborations on web-related projects
+
+### 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afzaldiwan/)  
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:afzalhusen3@gmail.com)
+
+---
+
+⭐ **Fun Fact:** I’m on a journey to become a **100Xdev** while building amazing web applications! Let's grow together! 🚀
