@@ -7,7 +7,8 @@ I'm a passionate **Full-Stack Developer** who loves building scalable and effici
 
 - **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Databases:** PostgreSQL, MySQL, MongoDB,
+- **Devops:** Aws, docker, cd/cd etc,
 - **Tools & Others:** Prisma, Supabase, Cloudinary, Git, Docker
 
 ### 👀 Interests
@@ -15,6 +16,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable and effici
 - 🏗 Building real-world full-stack applications
 - 📊 Learning AI/ML and data-driven solutions
 - 🤝 Open to collaborations on web-related projects
+- Exploring web3 and blockchain dev.
 
 ### 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/afzal-diwan-7202b8239/)  
