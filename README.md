@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable and effici
 - **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Databases:** PostgreSQL, MySQL, MongoDB,
-- **Devops:** Aws, docker, cd/cd etc,
+- **Devops:** Aws, docker, CI/CD etc,
 - **Tools & Others:** Prisma, Supabase, Cloudinary, Git, Docker
 
 ### 👀 Interests
